@@ -4,6 +4,7 @@ SC1015 Mini Project
 A126_Team 7
 Members: Ryan Cheong En Wei, George Lai, Hari Krishna
 
+![Alt text](relative%20path/to/1015_image.jpg?raw=true "Title")
 
 In the automotive industry, predicting car prices accurately can be a challenging task. With a vast array of variables and factors that contribute to the final price of a car, it can be challenging to identify which predictors are the most critical in determining the car's value. In this data analysis, we will explore the different variables that can influence the price of a car and aim to identify the best car price prediction model. The dataset that we will be using is Car Price Prediction from Kaggle. Can we use a combination of several of the stronger predictors to build a stronger model to predict car price? We will look into that in this project.
 
