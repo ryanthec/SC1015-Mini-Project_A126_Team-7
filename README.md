@@ -17,3 +17,4 @@ Steps we took
 8) Compare accuracy of RFE and OLS and determine which is better at predicting car price.
 
 All members worked on all parts together
+We included the data csv file as well as the directory which explains each variable
